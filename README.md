@@ -1,7 +1,7 @@
 # Syntra
 > A scripting utility for roblox 
 
-## Booting the Script
+# Booting the Script
 ```lua
 local function Load(user, repo, name, file)
     local url = ("https://raw.githubusercontent.com/%s/%s/main/%s/%s"):format(user, repo, name, file)
@@ -14,5 +14,9 @@ local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main")
 local Api = Load("Syntra-org", "Syntra", "API", "Main") -- // View the Documentation for our API in https://github.com/Syntra-org/Syntra
 ```
 
-## Api Documentation
+## API Documentation
 > Api.Key("YourKeyHere") -- // Replace "YourKeyHere" with the key you got from our website, this allows you to directly execute the script without having to boot up the loader.
+
+## Tutorial
+Syntra requires a good executor and device to run it; PC Executors such as AWP, Wave, Swift are recommended.
+Upon executing the script, you will be greeted with a key input and submit key button, press "Get Key" and paste it in your browser to get started. If you have issues with the key system or anything else, check our discord: https://discord.gg/vTYMjtDA5V
