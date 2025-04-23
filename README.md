@@ -14,6 +14,6 @@ local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main")
 local Api = Load("Syntra-org", "Syntra", "API", "Main") -- // View the Documentation for our API in https://github.com/Syntra-org/Syntra
 ```
 
-### Api Documentation
+## Api Documentation
 > API.Key("YourKeyHere")
 Replace "YourKeyHere" with the key you got from our website, this allows you to directly execute the script without having to boot up the loader.
