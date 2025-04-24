@@ -19,7 +19,7 @@ Directly execute the script `without having to boot up the loader.`. Useful if y
 ```lua
 Syntra.Key("YourKeyHere")
 ```
-Replace `YourKeyHere` with the key you recieved from the website, add this part of code under `local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main")`. 
+> Replace `YourKeyHere` with the key you recieved from the website, add this part of code under `local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main")`. 
 
 ## Tutorial
 Syntra requires a good executor and device to run it; PC Executors such as AWP, Wave, Swift are recommended.
