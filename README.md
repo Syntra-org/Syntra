@@ -15,7 +15,11 @@ local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main") -- // Loads the Sy
 ```
 
 ## API Documentation
-> Api.Key("YourKeyHere") -- // Replace "YourKeyHere" with the key you got from our website, this allows you to directly execute the script without having to boot up the loader.
+Directly execute the script `without having to boot up the loader.`
+```lua
+Syntra.Key("YourKeyHere")
+```
+Replace `YourKeyHere` with the key you recieved from the website, add this part of code under `local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main")`. 
 
 ## Tutorial
 Syntra requires a good executor and device to run it; PC Executors such as AWP, Wave, Swift are recommended.
