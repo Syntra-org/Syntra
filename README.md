@@ -11,8 +11,7 @@ local function Load(user, repo, name, file)
 end
 
 local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main") -- // Loads the Syntra loader
-local API = Load("Syntra-org", "Syntra", "API", "Main") -- // View the Documentation for our API in https://github.com/Syntra-org/Syntra
-
+-- // View the Documentation for our API in https://github.com/Syntra-org/Syntra
 ```
 
 ## API Documentation
