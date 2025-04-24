@@ -24,6 +24,6 @@ Syntra.Key("YourKeyHere")
 ### API Usage Tutorial
 httpsL
 
-## Tutorial
+# Tutorial
 Syntra requires a good executor and device to run it; PC Executors such as AWP, Wave, Swift are recommended.
 Upon executing the script, you will be greeted with a key input and submit key button, press "Get Key" and paste it in your browser to get started. If you have issues with the key system or anything else, check our discord: https://discord.gg/vTYMjtDA5V
