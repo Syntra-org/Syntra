@@ -15,7 +15,7 @@ local Syntra = Load("Syntra-org", "Syntra", "Loader", "Main") -- // Loads the Sy
 ```
 
 ## API Documentation
-Directly execute the script `without having to boot up the loader.`
+Directly execute the script `without having to boot up the loader.`. Useful if you're trying to auto execute a game supported by `Syntra`.
 ```lua
 Syntra.Key("YourKeyHere")
 ```
