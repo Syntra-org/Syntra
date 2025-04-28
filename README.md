@@ -27,3 +27,7 @@ httpsL
 # Tutorial
 Syntra requires a good executor and device to run it; PC Executors such as AWP, Wave, Swift are recommended.
 Upon executing the script, you will be greeted with a key input and submit key button, press "Get Key" and paste it in your browser to get started. If you have issues with the key system or anything else, check our discord: https://discord.gg/vTYMjtDA5V
+<div align="left">
+  <a href="https://github.com/Colin4President/KaterHub" target="_blank"><img src="https://img.shields.io/github/contributors/Colin4President/KaterHub"></img></a>
+  <a href="https://discord.gg/kSBmA2qKEp" target="_blank"><img src="https://img.shields.io/discord/1185906126022266920?logo=discord&label=Join%20our%20Discord!&color=ba34eb">
+</div>
