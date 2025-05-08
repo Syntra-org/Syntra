@@ -11,6 +11,7 @@ local function Load(user, repo, file)
 end
 
 local Syntra = Load("Syntra-org", "Syntra", "Loader/Main") -- // Loads the Syntra loader
+Syntra.IsSupported() - // Prints if the current game you're in is supported by Syntra.
 -- // View the Documentation for our API in https://github.com/Syntra-org/Syntra
 ```
 
